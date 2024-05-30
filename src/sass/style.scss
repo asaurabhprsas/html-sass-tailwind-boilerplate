@@ -1,0 +1,20 @@
+@import "tailwind"; // tailwind = ./_tailwond.scss
+
+$color-primary: black;
+
+@mixin important-text {
+  color: red;
+  font-size: 25px;
+  font-weight: bold;
+  border: 1px solid blue;
+}
+
+.div-class {
+  background-color: $color-primary;
+  @include important-text;
+}
+
+/* Prefixer Test */
+::placeholder {
+  color: gray;
+}
