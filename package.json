@@ -26,7 +26,8 @@
   },
   "licenses": [
     {
-      "type": "MIT"
+      "type": "MIT",
+      "url": "https://github.com/asaurabhprsas/html-sass-tailwind-boilerplate/raw/main/LICENCE"
     }
   ]
 }

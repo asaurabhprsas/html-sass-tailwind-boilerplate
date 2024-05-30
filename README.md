@@ -74,4 +74,4 @@ This will generate the optimized files in the public directory.
 
 ## License
 
-[Insert your license here]
+This project is licenced under [MIT License](./LICENCE).
